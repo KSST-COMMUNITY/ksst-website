@@ -1701,16 +1701,16 @@ a.mobile-home-button {
     .center-column {
         width: 100%;
         text-align: center;
-        padding: 20px 16px;
+        padding: 15px 12px;
         order: 1;
         box-sizing: border-box;
         overflow-x: hidden;
     }
 
     .marquee-wrapper {
-        margin: 0 -16px 15px -16px;
+        margin: 0 -12px 10px -12px;
         background: linear-gradient(135deg, #e67e22 0%, #d35400 100%);
-        padding: 12px 16px;
+        padding: 8px 12px;
         border-radius: 0;
         overflow: hidden;
     }
@@ -1724,18 +1724,18 @@ a.mobile-home-button {
     }
 
     .image-container {
-        margin: 15px 0;
+        margin: 8px 0;
     }
 
     .announcement-card {
-        margin: 0 auto 14px auto;
-        padding: 8px;
-        border-radius: 10px;
+        margin: 0 auto 8px auto;
+        padding: 6px;
+        border-radius: 8px;
     }
 
     .announcement-title {
-        font-size: 17px;
-        margin-bottom: 8px;
+        font-size: 14px;
+        margin-bottom: 6px;
     }
 
     .announcement-image {
@@ -1761,15 +1761,15 @@ a.mobile-home-button {
     .mobile-nav-links {
         display: flex;
         flex-direction: column;
-        gap: 8px;
-        margin: 4px 0 14px 0;
+        gap: 4px;
+        margin: 4px 0 10px 0;
     }
 
     .mobile-nav-links .side-btn {
-        padding: 9px 10px;
-        font-size: 13px;
-        border-radius: 7px;
-        min-height: 38px;
+        padding: 7px 8px;
+        font-size: 12px;
+        border-radius: 6px;
+        min-height: 35px;
     }
 
     .right-column {
@@ -1784,14 +1784,14 @@ a.mobile-home-button {
     }
 
     .devotional-line {
-        font-size: 16px;
-        margin: 12px 0 8px 0;
+        font-size: 14px;
+        margin: 8px 0 4px 0;
         color: #1F4E78;
     }
 
     .motto-line {
-        font-size: 24px;
-        margin: 8px 0 20px 0;
+        font-size: 18px;
+        margin: 4px 0 12px 0;
         color: #e67e22;
         letter-spacing: 0.5px;
         word-wrap: break-word;
